@@ -5,7 +5,7 @@
 
 ### Software Engineer | 2× ECPC Finalist | Competitive Programmer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Engineer;2%C3%97+ECPC+Finalist;Codeforces+Specialist;Building+Scalable+Systems;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Engineer;2%C3%97+ECPC+Finalist;Codeforces+Specialist;ITI+Graduate;Building+Scalable+Systems;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
@@ -19,6 +19,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ahmdehab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedehabx)
 ![ECPC](https://img.shields.io/badge/ECPC-2%C3%97%20Finalist-FF6B35?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![ITI](https://img.shields.io/badge/ITI-Graduate-00C853?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
 
@@ -30,23 +31,120 @@
 const ahmed = {
     title: "Software Engineer",
     education: "Communication & Electronics Engineering",
-    training: "ITI — Open Source Applications Development",
+    training: "ITI — Open Source Applications Development (1,110 Hours)",
     achievement: "2× ECPC Finalist | Codeforces Specialist",
-    focus: ["Algorithms", "System Design", "Backend Architecture"],
-    currentlyLearning: ["Java", "NestJS", "Django", "Ruby on Rails"],
+    focus: ["Algorithms", "System Design", "Backend Architecture", "Full-Stack Development"],
+    expertise: ["Java", "Node.js", "NestJS", "Django", "Ruby on Rails", "Angular", "React"],
     passion: "Building scalable systems with clean architecture",
+    currentGoal: "Mastering advanced system design and cloud architecture",
     motto: "Code. Improve. Repeat."
 };
 ```
 
 <div align="center">
 
+🔹 **ITI Graduate** — Open Source Applications Development Program  
 🔹 Competitive programmer with proven problem-solving skills  
-🔹 Backend engineering enthusiast focused on scalable architectures  
+🔹 Full-stack engineer focused on scalable architectures  
+🔹 1,110+ hours of intensive training in modern tech stack  
 🔹 Open-source contributor passionate about clean code  
-🔹 Continuously evolving through learning and practice  
 
 </div>
+
+---
+
+## 🎓 Professional Training
+
+<div align="center">
+
+### ITI — Open Source Applications Development
+**1,110 Hours | Professional Training Program**
+
+</div>
+
+<details>
+<summary><b>📚 Core Technologies (61% of Program)</b></summary>
+
+<br>
+
+#### Backend Development
+- **Java Development** — Enterprise application development
+- **Node.js & NestJS** — Modern JavaScript backend frameworks
+- **Python & Django** — Rapid development and scalability
+- **PHP & Laravel** — Web application frameworks
+- **Ruby & Ruby on Rails** — Convention over configuration
+
+#### Frontend Frameworks
+- **Angular** — Enterprise-grade SPA framework
+- **React.js** — Component-based UI library
+- **Vue.js** — Progressive JavaScript framework
+- **Next.js** — React meta-framework for production
+- **CSS Frameworks** — Bootstrap, Tailwind, and more
+
+#### Databases & Storage
+- **MySQL** — Relational database management
+- **MongoDB** — NoSQL database solutions
+- **Database Design** — Schema design and optimization
+
+#### DevOps & Cloud
+- **Red Hat System Administration** — Linux server management
+- **Docker & Containerization** — Application deployment
+- **Cloud Computing Fundamentals** — AWS and cloud services
+- **Apache Web Server** — Server configuration
+
+#### Advanced Topics
+- **Design Patterns** — Software architecture best practices
+- **Web Services & APIs** — RESTful and GraphQL services
+- **Application Security** — Security fundamentals
+- **Unit & Automated Testing** — Test-driven development
+- **Version Control (Git)** — Collaborative development
+- **Bash Shell Scripting** — Automation and scripting
+
+#### Emerging Technologies
+- **Generative AI & Prompt Engineering** — AI integration
+- **Vibe Coding with Gen-AI APIs** — AI-powered development
+- **Advanced Gen-AI Programming** — RAG and Agentic Software
+
+#### Additional Technologies
+- **Open-Source ERP Systems (Odoo)** — Business applications
+- **PHP CMSs** — Content management systems
+- **Push & Pull Technologies** — Real-time communication
+- **GraphQL** — Modern API query language
+
+</details>
+
+<details>
+<summary><b>🧩 Fundamental Skills (33% of Program)</b></summary>
+
+<br>
+
+- **Data Structures & Algorithms** — Problem-solving foundation
+- **Object-Oriented Programming** — Design principles
+- **Database Fundamentals** — SQL and database theory
+- **Computer Network Fundamentals** — Networking concepts
+- **Operating Systems Fundamentals** — OS concepts
+- **Software Engineering Principles** — SDLC and methodologies
+- **Agile Methodologies** — Scrum and agile practices
+- **HTML5 & CSS3** — Web fundamentals
+- **XML Fundamentals** — Data interchange
+- **Client-Side Technologies** — Browser-based development
+- **Freelancing** — Independent contractor skills
+
+</details>
+
+<details>
+<summary><b>💼 Professional Skills (6% of Program)</b></summary>
+
+<br>
+
+- **Communication Essentials** — Professional communication
+- **High Impact Presentations** — Presentation skills
+- **Job Seeking Skills** — Career development
+- **Progressive Teamwork** — Collaboration techniques
+- **Professional Demeanor** — Workplace professionalism
+- **Remote Working Best Practices** — Distributed team collaboration
+
+</details>
 
 ---
 
@@ -60,7 +158,10 @@ const ahmed = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 
@@ -68,6 +169,7 @@ const ahmed = {
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -86,10 +188,11 @@ const ahmed = {
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 
-### Databases & Tools
+### Databases & Cloud
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -97,11 +200,21 @@ const ahmed = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+### Tools & DevOps
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 </div>
 
@@ -165,5 +278,7 @@ const ahmed = {
 *"Excellence is not a destination, it's a continuous journey of improvement."*
 
 **⭐ From [AhmedEhabFarouk](https://github.com/AhmedEhabFarouk)**
+
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedEhabFarouk&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
