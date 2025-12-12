@@ -31,7 +31,7 @@
 const ahmed = {
     title: "Software Engineer",
     education: "Communication & Electronics Engineering",
-    training: "ITI — Open Source Applications Development (1,110 Hours)",
+    training: "ITI — Open Source Applications Development (In Progress)",
     achievement: "2× ECPC Finalist | Codeforces Specialist",
     focus: ["Algorithms", "System Design", "Backend Architecture", "Full-Stack Development"],
     expertise: ["Java", "Node.js", "NestJS", "Django", "Ruby on Rails", "Angular", "React"],
@@ -43,10 +43,10 @@ const ahmed = {
 
 <div align="center">
 
-🔹 **ITI Graduate** — Open Source Applications Development Program  
+🔹 **ITI Student** — Open Source Applications Development Program  
 🔹 Competitive programmer with proven problem-solving skills  
 🔹 Full-stack engineer focused on scalable architectures  
-🔹 1,110+ hours of intensive training in modern tech stack  
+🔹 Learning cutting-edge technologies through intensive training  
 🔹 Open-source contributor passionate about clean code  
 
 </div>
@@ -58,7 +58,7 @@ const ahmed = {
 <div align="center">
 
 ### ITI — Open Source Applications Development
-**1,110 Hours | Professional Training Program**
+**Currently Enrolled | Professional Training Program**
 
 </div>
 
