@@ -1,18 +1,21 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Ahmed Ehab Farouk</h1>
-<h3 align="center">Software Engineer | Passionate about Web Development & Open Source</h3>
+<h3 align="center">Software Engineer | Competitive Programmer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Computer+Science+Graduate;ITI+Open+Source+Track;Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Software+Engineer;Competitive+Programmer+%7C+Codeforces+Specialist;Communication+%26+Electronics+Engineer;Full-Stack+Web+Developer;ITI+Open+Source+Track" />
 </p>
 
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-- 💻 I’m a software engineer with a focus on **Java**, **JavaScript**, **Python**, and other open-source technologies  
-- 🎓 *Mansoura College Academy*  
-- 🎓 *ITI – Open Source Applications Development Track*  
-- 🌱 Currently learning **NodeJS**, **NestJS**, **Django**, and **Ruby On Rails**  
-- 📫 Reach me on LinkedIn: [ahmedehabx](https://www.linkedin.com/in/ahmedehabx)
+- 💻 Software Engineer with strong foundations in **algorithms, data structures, and backend development**
+- 🎓 *Bachelor of Communication & Electronics Engineering*
+- 🎓 *ITI – Open Source Applications Development Track*
+- 🚀 Competitive Programmer — **Codeforces Specialist**
+- 🌱 Currently learning **Java**, **NodeJS**, **NestJS**, **Django**, and **Ruby on Rails**
+- 🔗 Codeforces: [ahmd](https://codeforces.com/profile/ahmd)  
+- 🔗 LeetCode: [ahmdehab](https://leetcode.com/u/ahmdehab)  
+- 📫 LinkedIn: [ahmedehabx](https://www.linkedin.com/in/ahmedehabx)
 
 ---
 
