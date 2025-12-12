@@ -19,7 +19,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ahmdehab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedehabx)
 ![ECPC](https://img.shields.io/badge/ECPC-2%C3%97%20Finalist-FF6B35?style=for-the-badge&logo=stackoverflow&logoColor=white)
-![ITI](https://img.shields.io/badge/ITI-Graduate-00C853?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![ITI](https://img.shields.io/badge/ITI-Student-00C853?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
 
