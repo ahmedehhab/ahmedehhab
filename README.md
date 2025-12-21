@@ -220,19 +220,6 @@ const ahmed = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedEhabFarouk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedEhabFarouk&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEhabFarouk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-
-</div>
-
----
-
 ## 🏅 Competitive Programming
 
 <div align="center">
@@ -257,28 +244,3 @@ const ahmed = {
 
 </div>
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedehabx)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmd)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ahmdehab)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Philosophy
-
-*"Excellence is not a destination, it's a continuous journey of improvement."*
-
-**⭐ From [AhmedEhabFarouk](https://github.com/AhmedEhabFarouk)**
-
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedEhabFarouk&color=00D9FF&style=flat-square&label=Profile+Views)
-
-</div>
