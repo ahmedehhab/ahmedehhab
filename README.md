@@ -17,7 +17,7 @@
 
 - **Full-Stack Software Engineer** with strong backend & system design focus
 - **2× ECPC Finalist** & **Codeforces Specialist**
-- **ITI Open Source Applications Development Diploma Graduate**
+- **ITI Open Source Applications Development Diploma Student**
 - Strong foundation in **algorithms, data structures, and scalable systems**
 - Passionate about **clean code & architecture**
 
