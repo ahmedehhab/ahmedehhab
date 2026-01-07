@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi, I'm Ahmed Ehab Farouk 👋  
-### Software Engineer | 2× ECPC Finalist | Competitive Programmer
+### Full-Stack Software Engineer | 2× ECPC Finalist | Competitive Programmer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Backend+%26+System+Design+Focused;2%C3%97+ECPC+Finalist;Codeforces+Specialist;ITI+Open+Source+Trainee" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;Backend+%26+System+Design+Focused;ITI+Open+Source+Diploma;2%C3%97+ECPC+Finalist;Codeforces+Specialist" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedehabx)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmd)
@@ -13,17 +13,70 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- Software Engineer with strong **problem-solving & backend skills**
-- **2× ECPC Finalist** and **Codeforces Specialist**
-- ITI trainee — Open Source Applications Development
-- Focused on **system design, backend architecture, and scalability**
-- Competitive programmer with solid algorithms foundation
+- **Full-Stack Software Engineer** with strong backend & system design focus
+- **2× ECPC Finalist** & **Codeforces Specialist**
+- **ITI Open Source Applications Development Diploma Graduate**
+- Solid foundation in **algorithms, data structures, and scalable systems**
+- Experienced with **multiple backend & frontend frameworks**
+- Passionate about **clean code, architecture, and performance**
 
 ---
 
-## Tech Stack
+## 🎓 ITI – Open Source Applications Development Diploma
+
+An intensive hands-on diploma focused on building **real-world full-stack open-source applications**, covering backend, frontend, databases, DevOps, and software engineering best practices.
+
+### 🔧 Backend Frameworks & Technologies
+- **Spring & Spring Boot**
+- **Node.js**
+- **NestJS**
+- **Django**
+- **Laravel**
+- RESTful APIs & Web Services
+- Authentication & Authorization (JWT, Sessions)
+- Clean Architecture & Design Patterns
+
+### 🎨 Frontend Frameworks
+- **Angular**
+- **React.js**
+- **Vue.js**
+- **Next.js**
+- HTML5, CSS3, JavaScript (ES6+)
+- API Integration & State Management
+
+### 🗄 Databases
+- **PostgreSQL**
+- **MySQL**
+- **MongoDB**
+- Database Design, Normalization & Optimization
+
+### 🐳 DevOps & System
+- **Linux (Red Hat / Ubuntu)**
+- **Docker & Containerization**
+- Bash Shell Scripting
+- Apache Web Server
+- Cloud Computing Fundamentals
+
+### 🛠 Software Engineering
+- Object-Oriented Programming (OOP)
+- **Data Structures & Algorithms**
+- Version Control (**Git & GitHub**)
+- Unit & Automated Testing
+- Agile & Scrum Methodologies
+- Software Security Basics
+
+### 🚀 Advanced & Workshops
+- Advanced **NestJS**
+- **GraphQL**
+- Generative AI & Prompt Engineering
+- Working with AI APIs
+- Intro to RAG & Agentic Systems
+
+---
+
+## 🧰 Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -31,12 +84,22 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+### Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ### Databases & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -47,18 +110,18 @@
 
 ---
 
-## Competitive Programming
+## 🏆 Competitive Programming
 
 - **ECPC Finalist (2×)** — 2022, 2023
 - **Codeforces Specialist**
-- Solved hundreds of problems across CF & LeetCode
-- Strong in **DSA, problem solving, and optimization**
+- Solved hundreds of problems on Codeforces & LeetCode
+- Strong problem-solving & optimization mindset
 
 ---
 
 <div align="center">
 
-📫 **Reach me on LinkedIn**  
+📫 **Let’s Connect**  
 [LinkedIn](https://www.linkedin.com/in/ahmedehabx)
 
 </div>
