@@ -18,17 +18,16 @@
 - **Full-Stack Software Engineer** with strong backend & system design focus
 - **2× ECPC Finalist** & **Codeforces Specialist**
 - **ITI Open Source Applications Development Diploma Graduate**
-- Solid foundation in **algorithms, data structures, and scalable systems**
-- Experienced with **multiple backend & frontend frameworks**
-- Passionate about **clean code, architecture, and performance**
+- Strong foundation in **algorithms, data structures, and scalable systems**
+- Passionate about **clean code & architecture**
 
 ---
 
 ## 🎓 ITI – Open Source Applications Development Diploma
 
-An intensive hands-on diploma focused on building **real-world full-stack open-source applications**, covering backend, frontend, databases, DevOps, and software engineering best practices.
+<details>
+<summary><strong>🔧 Backend Frameworks & Technologies</strong></summary>
 
-### 🔧 Backend Frameworks & Technologies
 - **Spring & Spring Boot**
 - **Node.js**
 - **NestJS**
@@ -38,7 +37,11 @@ An intensive hands-on diploma focused on building **real-world full-stack open-s
 - Authentication & Authorization (JWT, Sessions)
 - Clean Architecture & Design Patterns
 
-### 🎨 Frontend Frameworks
+</details>
+
+<details>
+<summary><strong>🎨 Frontend Frameworks</strong></summary>
+
 - **Angular**
 - **React.js**
 - **Vue.js**
@@ -46,20 +49,32 @@ An intensive hands-on diploma focused on building **real-world full-stack open-s
 - HTML5, CSS3, JavaScript (ES6+)
 - API Integration & State Management
 
-### 🗄 Databases
+</details>
+
+<details>
+<summary><strong>🗄 Databases</strong></summary>
+
 - **PostgreSQL**
 - **MySQL**
 - **MongoDB**
 - Database Design, Normalization & Optimization
 
-### 🐳 DevOps & System
+</details>
+
+<details>
+<summary><strong>🐳 DevOps & System</strong></summary>
+
 - **Linux (Red Hat / Ubuntu)**
 - **Docker & Containerization**
 - Bash Shell Scripting
 - Apache Web Server
 - Cloud Computing Fundamentals
 
-### 🛠 Software Engineering
+</details>
+
+<details>
+<summary><strong>🛠 Software Engineering</strong></summary>
+
 - Object-Oriented Programming (OOP)
 - **Data Structures & Algorithms**
 - Version Control (**Git & GitHub**)
@@ -67,12 +82,18 @@ An intensive hands-on diploma focused on building **real-world full-stack open-s
 - Agile & Scrum Methodologies
 - Software Security Basics
 
-### 🚀 Advanced & Workshops
+</details>
+
+<details>
+<summary><strong>🚀 Advanced & Workshops</strong></summary>
+
 - Advanced **NestJS**
 - **GraphQL**
 - Generative AI & Prompt Engineering
 - Working with AI APIs
 - Intro to RAG & Agentic Systems
+
+</details>
 
 ---
 
@@ -115,7 +136,6 @@ An intensive hands-on diploma focused on building **real-world full-stack open-s
 - **ECPC Finalist (2×)** — 2022, 2023
 - **Codeforces Specialist**
 - Solved hundreds of problems on Codeforces & LeetCode
-- Strong problem-solving & optimization mindset
 
 ---
 
